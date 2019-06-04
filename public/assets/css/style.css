@@ -13,3 +13,9 @@
 .axis-text {
   font-weight: bold;
 }
+value:hover {
+  color: blue;
+}
+ body {
+  color: black;
+ }
